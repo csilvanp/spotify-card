@@ -26,7 +26,6 @@ body {
 }
 
 .card {
-  margin: 100px auto 0;
   width: 400px;
   height: 550px;
   perspective: 1000px;
